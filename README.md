@@ -128,3 +128,8 @@ Real-Time Screening
 Enable real-time retinal image analysis in hospitals and clinics.
 Electronic Health Record Integration
 Connect predictions with hospital management systems.
+
+Screnshots:
+
+![Dashboard]()
+
