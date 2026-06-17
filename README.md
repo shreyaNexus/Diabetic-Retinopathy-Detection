@@ -131,5 +131,5 @@ Connect predictions with hospital management systems.
 
 Screnshots:
 
-![Dashboard]()
+![Dashboard](https://github.com/shreyaNexus/Diabetic-Retinopathy-Detection/blob/main/Screenshot%202026-06-17%20201754.png?raw=true)
 
